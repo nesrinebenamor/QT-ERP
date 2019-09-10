@@ -1,0 +1,87 @@
+<RCC>
+    <qresource prefix="/Arriere">
+        <file>images/interface_login.png</file>
+        <file>images/1.png</file>
+        <file>images/gestion_produit_interface.jpg</file>
+        <file>images/arr_en.jpg</file>
+        <file>images/four_interface.jpg</file>
+        <file>images/arr_com.jpg</file>
+        <file>images/arr_comm.jpg</file>
+        <file>images/interface_gestion_stock.png</file>
+        <file>images/inter_article.jpg</file>
+        <file>images/ajout_four_interface.jpg</file>
+        <file>images/inetr.jpg</file>
+        <file>images/inetrface1.png</file>
+        <file>images/arierre plan2.jpg</file>
+        <file>images/aa.jpg</file>
+        <file>images/alo.jpg</file>
+        <file>images/hahahahahahahahahaha.jpg</file>
+        <file>images/jijou.jpg</file>
+        <file>images/k.jpg</file>
+        <file>images/kakakakaka.jpg</file>
+        <file>images/lala.jpg</file>
+        <file>images/last.jpg</file>
+        <file>images/liste.png</file>
+        <file>images/modifier.jpg</file>
+        <file>images/ordre.jpg</file>
+        <file>images/supprimer.jpg</file>
+        <file>images/tamogatastad.png</file>
+        <file>images/Fotolia_34587413_S.jpg</file>
+        <file>images/interfacesupp.jpg</file>
+        <file>images/formation2.jpg</file>
+        <file>images/fond1.png</file>
+        <file>images/menu_formation.jpg</file>
+        <file>images/menu_forma.jpg</file>
+        <file>images/formation-1024x895.jpg</file>
+        <file>images/Study4_Group_Students_20091-1024x1021.jpg</file>
+        <file>images/markedsstrategi.jpg</file>
+        <file>images/1552877_10202858008319675_680574188_n.jpg</file>
+        <file>images/1.jpg</file>
+        <file>images/gestion_personnel.jpg</file>
+        <file>images/int_conge.jpg</file>
+        <file>images/menu_cong.jpg</file>
+        <file>images/1533403_10202857927517655_1886638703_n.jpg</file>
+        <file>images/sup.jpg</file>
+        <file>images/1533698_1434101263485693_542051900_n.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Icon/16.png</file>
+        <file>Icon/28.png</file>
+        <file>Icon/35.png</file>
+        <file>Icon/36.png</file>
+        <file>Icon/95.png</file>
+        <file>Icon/118.png</file>
+        <file>Icon/112.png</file>
+        <file>Icon/159.png</file>
+        <file>Icon/156.png</file>
+        <file>23 - Copie.png</file>
+        <file>Icon/535.png</file>
+        <file>Icon/336.png</file>
+        <file>Icon/71 - Copie.png</file>
+        <file>Icon/72 - Copie.png</file>
+        <file>Icon/120 - Copie.png</file>
+        <file>Icon/ico_conn.png</file>
+        <file>Icon/file_document_paper_green_g38420.png</file>
+        <file>Icon/66.png</file>
+        <file>Icon/47.png</file>
+        <file>Icon/40.png</file>
+        <file>Icon/25.png</file>
+        <file>Icon/41.png</file>
+        <file>Icon/78.png</file>
+        <file>Icon/45.png</file>
+        <file>Icon/43.png</file>
+        <file>Icon/44.png</file>
+        <file>Icon/77.png</file>
+        <file>Icon/76.png</file>
+        <file>Icon/79.png</file>
+        <file>Icon/23.png</file>
+        <file>Icon/bag1_64.png</file>
+        <file>Icon/31.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/ok.png</file>
+        <file>Icon/poubelle.jpg</file>
+        <file>Icon/ok.ico</file>
+        <file>Icon/1.png</file>
+        <file>Icon/117.png</file>
+    </qresource>
+</RCC>
